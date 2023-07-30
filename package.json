@@ -1,0 +1,15 @@
+{
+  "name": "type-transformation",
+  "version": "1.0.0",
+  "description": "Master transforming types",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Suraj Yakkha",
+  "license": "LGPL-2.1-or-later",
+  "dependencies": {
+    "type-fest": "^4.0.0"
+  }
+}
